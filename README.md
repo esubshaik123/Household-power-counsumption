@@ -51,6 +51,9 @@ The dashboard includes:
 - Real-time Data Analysis
 - Machine Learning Prediction
 
-## 👨‍💻 Author
-**Esub Shaik**
-MCA Student
+##TEAM MEMBERS
+SHAIK ESUB
+POTHIREDDY YAVVANA GEETIKA
+PANDRA SRAVANTHI
+RAYAPATI MOUNIKA
+TEEPARTHI RISHITHA SAI
