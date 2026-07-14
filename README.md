@@ -51,7 +51,7 @@ The dashboard includes:
 - Real-time Data Analysis
 - Machine Learning Prediction
 
-##TEAM MEMBERS
+## TEAM MEMBERS
 - SHAIK ESUB
 - POTHIREDDY YAVVANA GEETIKA
 - PANDRA SRAVANTHI
