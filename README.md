@@ -44,8 +44,6 @@ The dashboard includes:
 - Sub Metering Comparison
 - Average Daily Consumption
 
-## 📸 Dashboard Preview
-(Add your dashboard screenshot here)
 
 ## 📌 Future Improvements
 - MySQL Database Integration
@@ -54,5 +52,5 @@ The dashboard includes:
 - Machine Learning Prediction
 
 ## 👨‍💻 Author
-**Kamal Shaik**
+**Esub Shaik**
 MCA Student
